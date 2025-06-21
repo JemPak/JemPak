@@ -20,10 +20,6 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-5scs0d26r-kblandonv.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1EIUyfA4iXoCBF)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juan-jose-monsalve-pati%C3%B1o/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_juan" height="30" width="40" /></a>
